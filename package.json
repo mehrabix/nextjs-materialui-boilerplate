@@ -14,11 +14,13 @@
     "@emotion/styled": "^11.3.0",
     "@mui/icons-material": "^5.0.0-rc.1",
     "@mui/material": "^5.0.0-rc.1",
-    "next": "11.1.2",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "@types/node": "^17.0.25",
+    "next": "12",
+    "react": "latest",
+    "react-dom": "latest"
   },
   "devDependencies": {
+    "@types/node": "^17.0.25",
     "@emotion/eslint-plugin": "^11.2.0",
     "@types/react": "17.0.24",
     "@typescript-eslint/eslint-plugin": "^4.31.2",
